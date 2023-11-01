@@ -1,8 +1,15 @@
 public class DanilLait {
-    public static void main(String[] args)
-    {
-      int a =10;
-      int b =15;
-      int c = a + b;
+    public static void main(String[] args) {
+        int a = 3;
+        switch (a) {
+            case 1:
+                System.out.println("a = 1");
+                break;
+            case 3:
+                System.out.println("a = 3");
+                break;
+            default:
+                System.out.println("Ни один из case не сработал");
+        }
     }
 }

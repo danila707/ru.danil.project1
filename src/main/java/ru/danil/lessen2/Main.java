@@ -7,6 +7,7 @@ public class Main {
         Lesson.isPozitiveOrNegative( 5);
         System.out.println(Lesson.isNegative(5));
         Lesson.printWordNTimes("jfjfjf",10);
+        Lesson.isLeapYear( 2022  );
     }
 }
 

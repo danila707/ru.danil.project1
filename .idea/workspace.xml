@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="602d50c8-48be-4cbd-af4e-976c4d98703c" name="Changes" comment="it">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/danil/lesson4/Lesson4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danila707&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b4b7e5fa-d87c-4282-8965-048c2de4b293" />
+        <option name="url" value="https://github.com/danila707/ru.danil.project1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/danil/lessen3/Lesson.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2WtiyZa362ZyDTlhfTXMluPW61j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "lessen6",
+    "last_opened_file_path": "C:/Users/danil/IdeaProjects/ru.danil.project1",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Lessen3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.danil.lessen3.Lessen3" />
+      <module name="ru.danil.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.danil.lessen3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.danil.lessen3.Lesson2" />
+      <module name="ru.danil.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.danil.lessen3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.danil.lesson4.Lesson4" />
+      <module name="ru.danil.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.danil.lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.danil.lesson5.Lesson5" />
+      <module name="ru.danil.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.danil.lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.danil.lesson6.Main" />
+      <module name="ru.danil.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.danil.lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lesson4" />
+        <item itemvalue="Application.Lesson5" />
+        <item itemvalue="Application.Lessen3" />
+        <item itemvalue="Application.Lesson2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="602d50c8-48be-4cbd-af4e-976c4d98703c" name="Changes" comment="" />
+      <created>1697558546614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697558546614</updated>
+    </task>
+    <task id="LOCAL-00001" summary="it">
+      <option name="closed" value="true" />
+      <created>1698011044640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698011044640</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1698703201493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698703201493</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1698876459765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698876459765</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1698876514051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698876514051</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1700002935037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002935037</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1700003195040</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700003195040</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1700685084112</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700685084112</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1700685330854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700685330854</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1700685481410</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700685481410</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1700685684515</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700685684515</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1701216288333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701216288333</updated>
+    </task>
+    <task id="LOCAL-00012" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1704655972942</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704655972942</updated>
+    </task>
+    <task id="LOCAL-00013" summary="lessen2">
+      <option name="closed" value="true" />
+      <created>1704656346318</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704656346318</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lessen2" />
+    <MESSAGE value="it" />
+    <option name="LAST_COMMIT_MESSAGE" value="it" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/danil/lessen3/Lessen3.java</url>
+          <line>6</line>
+          <properties class="ru.danil.lessen3.Lessen3" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
